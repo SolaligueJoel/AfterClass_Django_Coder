@@ -2,7 +2,7 @@
 _Repaso general de Django_
 
 # Primeros pasos con Django
-_Django es un framwerk de propósito general, que ya tiene muchas funcionalidades añadidas, entre ellas las siguientes_:
+_Django es un framwork de propósito general, que ya tiene muchas funcionalidades añadidas, entre ellas las siguientes_:
 * Implementacion de modelo MODELO-VISTA-CONTROLADOR: En Django se pueden diferenciar tres elementos principales:
     * Modelos de datos: están alojados en la base de datos y mapeados con el ORM para ser manipulados como objetos Python.
     * Vistas: guardan toda la lógica de la aplicación. Saben cómo manejar las peticiones de los usuarios, manipular los datos y representarlos de forma           óptima.
